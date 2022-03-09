@@ -3,17 +3,11 @@
 
 
 
-## Prazer! 👋 Me chamo Jailson Costa dos Santos
+## Prazer! 👋 Me chamo Matheus Nunes Domingues
 
 
 
-° 💻 Conhecido no mundo da educação e tecnologia como <strong>Professor Obama.</strong>
-
-° 💻 Docente e Professor na áreas de <strong>Tecnologia</strong> e <strong>Engenharias.</strong>
-
-
-
-° 💼 Professor de Tecnologia da Informação no Senac, Anhanguera, Faculdade Flamingo e Colégio Técnico Flamingo..
+° 💻 Conhecido no mundo da educação e tecnologia como <strong>Nunes</strong>
 
 
 
@@ -21,7 +15,7 @@
 
 
 
-° 🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade UMC.
+° 🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> na ETEC Heliópolis
 
 <div>
 <hr>
